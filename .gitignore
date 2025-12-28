@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+myenv/
+.venv/
+*.pyc
+
+# Environment & API Keys
+.env
+
+# Databases & Local Data
+*.db
+*.csv
+chroma_db/
